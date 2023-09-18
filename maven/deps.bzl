@@ -24,6 +24,7 @@ maven_artifacts = [
     "info.picocli:picocli",
     "org.apache.commons:commons-compress",
     "org.zeroturnaround:zt-exec",
+    "org.jsoup:jsoup",
 ]
 
 maven_artifacts_with_versions = [
@@ -34,4 +35,5 @@ maven_artifacts_with_versions = [
     "info.picocli:picocli:4.3.2",
     "org.apache.commons:commons-compress:1.21",
     "org.zeroturnaround:zt-exec:1.10",
+    "org.jsoup:jsoup:1.16.1",
 ]
